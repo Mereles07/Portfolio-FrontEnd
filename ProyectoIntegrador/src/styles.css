@@ -1,0 +1,14 @@
+body {
+    background-color: #21282a;
+}
+.acerca.de.mi,
+.experiencia,
+.educacion,
+.habilidades,
+.proyectos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
