@@ -1,4 +1,4 @@
-package com.portfolio.proyecto_integrador.Repositorio;
+  package com.portfolio.proyecto_integrador.Repositorio;
 
 import com.portfolio.proyecto_integrador.Entidad.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;
