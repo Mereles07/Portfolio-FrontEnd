@@ -24,6 +24,11 @@
 .fa-brands.fa-github.fa-2x:hover {
     color: brown;
 }
+button {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+}
 section.banner {
     background-image: linear-gradient(
         rgba(0,0,0,5),

@@ -1,12 +1,15 @@
-.mb-3 {
-    width: 550px;
-    padding: 30px;
-    margin-left: 350px;
-    margin-bottom: 1rem;
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
 }
-.btn-primary {
-    margin-left: 380px;
+.h-custom {
+height: calc(100% - 73px);
 }
-a {
-    margin: 335px;
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
 }
