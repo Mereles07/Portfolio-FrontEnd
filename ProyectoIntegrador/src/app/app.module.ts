@@ -22,8 +22,8 @@ import { NewEducacionComponent } from './components/educacion/new-educacion/new-
 import { EditEducacionComponent } from './components/educacion/edit-educacion/edit-educacion.component';
 import { NewHabilidadesComponent } from './components/habilidades/new-habilidades/new-habilidades.component';
 import { EditHabilidadesComponent } from './components/habilidades/edit-habilidades/edit-habilidades.component';
-import { NgCircleProgressModule } from 'ng-circle-progress';
 import { EditAcercadeComponent } from './components/acerca-de/edit-acercade/edit-acercade.component';
+import { NgCircleProgressModule } from 'ng-circle-progress';
 
 @NgModule({
   declarations: [
@@ -42,7 +42,7 @@ import { EditAcercadeComponent } from './components/acerca-de/edit-acercade/edit
     EditEducacionComponent,
     NewHabilidadesComponent,
     EditHabilidadesComponent,
-    EditAcercadeComponent
+    EditAcercadeComponent,
   ],
   imports: [
     BrowserModule,
